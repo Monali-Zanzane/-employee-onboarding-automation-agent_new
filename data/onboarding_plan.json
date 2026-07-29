@@ -1,0 +1,125 @@
+{
+  "persona": "Business Analyst",
+  "duration_days": 30,
+  "milestones": [
+    {
+      "id": "M01",
+      "week": 1,
+      "day": 1,
+      "title": "Complete employee profile",
+      "weight": 5
+    },
+    {
+      "id": "M02",
+      "week": 1,
+      "day": 1,
+      "title": "Attend HR orientation",
+      "weight": 6
+    },
+    {
+      "id": "M03",
+      "week": 1,
+      "day": 2,
+      "title": "Read code of conduct",
+      "weight": 5
+    },
+    {
+      "id": "M04",
+      "week": 1,
+      "day": 3,
+      "title": "Complete information security training",
+      "weight": 8
+    },
+    {
+      "id": "M05",
+      "week": 1,
+      "day": 4,
+      "title": "Meet reporting manager",
+      "weight": 6
+    },
+    {
+      "id": "M06",
+      "week": 1,
+      "day": 5,
+      "title": "Review BA role expectations",
+      "weight": 6
+    },
+    {
+      "id": "M07",
+      "week": 2,
+      "day": 8,
+      "title": "Complete requirements standards module",
+      "weight": 7
+    },
+    {
+      "id": "M08",
+      "week": 2,
+      "day": 9,
+      "title": "Review stakeholder map",
+      "weight": 5
+    },
+    {
+      "id": "M09",
+      "week": 2,
+      "day": 10,
+      "title": "Complete data privacy training",
+      "weight": 8
+    },
+    {
+      "id": "M10",
+      "week": 2,
+      "day": 12,
+      "title": "Attend team ways-of-working session",
+      "weight": 5
+    },
+    {
+      "id": "M11",
+      "week": 3,
+      "day": 15,
+      "title": "Prepare sample business requirements document",
+      "weight": 8
+    },
+    {
+      "id": "M12",
+      "week": 3,
+      "day": 17,
+      "title": "Complete Agile delivery module",
+      "weight": 6
+    },
+    {
+      "id": "M13",
+      "week": 3,
+      "day": 19,
+      "title": "Review reporting and Power BI standards",
+      "weight": 6
+    },
+    {
+      "id": "M14",
+      "week": 4,
+      "day": 22,
+      "title": "Shadow a stakeholder workshop",
+      "weight": 5
+    },
+    {
+      "id": "M15",
+      "week": 4,
+      "day": 25,
+      "title": "Submit first-month learning reflection",
+      "weight": 5
+    },
+    {
+      "id": "M16",
+      "week": 4,
+      "day": 28,
+      "title": "Complete manager checkpoint",
+      "weight": 7
+    },
+    {
+      "id": "M17",
+      "week": 4,
+      "day": 30,
+      "title": "Complete 30-day onboarding survey",
+      "weight": 5
+    }
+  ]
+}
