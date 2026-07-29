@@ -1,0 +1,41 @@
+{
+  "id": "SEC-004",
+  "title": "Security Incident Reporting",
+  "category": "Security",
+  "topic": "Incident management",
+  "owner": "Security Operations",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Explains when and how to report suspected security incidents.",
+  "details": [
+    "Report incidents immediately.",
+    "Include what happened, when and affected systems.",
+    "Preserve evidence.",
+    "Do not discuss incidents broadly."
+  ],
+  "employee_actions": [
+    "Report immediately.",
+    "Preserve evidence.",
+    "Follow containment instructions."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Use emergency security channels for active incidents.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "security incident reporting",
+    "incident management",
+    "security"
+  ]
+}

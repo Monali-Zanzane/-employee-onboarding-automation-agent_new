@@ -1,0 +1,41 @@
+{
+  "id": "DATA-004",
+  "title": "Data Retention and Disposal",
+  "category": "Data Governance",
+  "topic": "Retention",
+  "owner": "Records Management",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines retention and approved disposal.",
+  "details": [
+    "Follow the approved schedule.",
+    "Delete temporary extracts when no longer needed.",
+    "Legal holds override normal disposal.",
+    "Use approved deletion methods."
+  ],
+  "employee_actions": [
+    "Identify record type.",
+    "Store correctly.",
+    "Remove temporary copies."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Contact Records Management for uncertainty.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "data retention and disposal",
+    "retention",
+    "data governance"
+  ]
+}

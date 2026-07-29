@@ -1,0 +1,41 @@
+{
+  "id": "ACCESS-001",
+  "title": "Application and Data Access Requests",
+  "category": "Security",
+  "topic": "Access management",
+  "owner": "Identity and Access Management",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines the access-request process.",
+  "details": [
+    "Requests identify system, permission, justification, duration and approver.",
+    "Least privilege applies.",
+    "Shared accounts are prohibited unless approved.",
+    "Access must be removed when no longer needed."
+  ],
+  "employee_actions": [
+    "Submit an Access Request ticket.",
+    "Provide business justification.",
+    "Confirm fulfillment."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Escalate overdue critical access through the support queue.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "application and data access requests",
+    "access management",
+    "security"
+  ]
+}

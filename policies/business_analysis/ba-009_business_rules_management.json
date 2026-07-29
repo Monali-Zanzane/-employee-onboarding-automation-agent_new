@@ -1,0 +1,41 @@
+{
+  "id": "BA-009",
+  "title": "Business Rules Management",
+  "category": "Business Analysis",
+  "topic": "Business rules",
+  "owner": "BA Practice Lead",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines the required standard for business rules management.",
+  "details": [
+    "Business Rules Management must use an approved template, method or governance approach.",
+    "Outputs must be clear, reviewable and traceable to business objectives.",
+    "Assumptions, risks, dependencies, decisions and unresolved questions must remain visible.",
+    "Approvals and review comments must be retained as evidence."
+  ],
+  "employee_actions": [
+    "Use the approved method or template.",
+    "Request peer or manager review.",
+    "Update traceability and decision records."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Escalate unresolved ownership, approval or quality issues to the BA Practice Lead or Project Manager.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "business rules management",
+    "business rules",
+    "business analysis"
+  ]
+}

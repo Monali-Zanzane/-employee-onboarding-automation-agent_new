@@ -1,0 +1,40 @@
+{
+  "id": "WORK-002",
+  "title": "Reasonable Adjustments and Accessibility",
+  "category": "Workplace",
+  "topic": "Accessibility",
+  "owner": "HR Accessibility Team",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Explains how to request workplace adjustments.",
+  "details": [
+    "Use the confidential adjustment process.",
+    "Share only necessary information.",
+    "Focus on functional needs.",
+    "Follow accessibility practices for content and meetings."
+  ],
+  "employee_actions": [
+    "Contact the Accessibility Team.",
+    "Describe the barrier and support needed."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Escalate delays through HR Accessibility.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "reasonable adjustments and accessibility",
+    "accessibility",
+    "workplace"
+  ]
+}

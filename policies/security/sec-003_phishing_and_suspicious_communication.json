@@ -1,0 +1,40 @@
+{
+  "id": "SEC-003",
+  "title": "Phishing and Suspicious Communication",
+  "category": "Security",
+  "topic": "Phishing",
+  "owner": "Security Operations",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines how to identify and report suspicious communication.",
+  "details": [
+    "Unexpected credential or payment requests are suspicious.",
+    "Verify unusual requests through a trusted channel.",
+    "Do not open suspicious links.",
+    "Report even if you already clicked."
+  ],
+  "employee_actions": [
+    "Use the phishing report mechanism.",
+    "Change credentials when instructed."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Immediately report suspected compromise.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "phishing and suspicious communication",
+    "phishing",
+    "security"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "DATA-002",
+  "title": "Data Quality Management",
+  "category": "Data Governance",
+  "topic": "Data quality",
+  "owner": "Data Governance Office",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines how data quality is measured and managed.",
+  "details": [
+    "Assess completeness, accuracy, validity, consistency, timeliness and uniqueness.",
+    "Assign owners and thresholds.",
+    "Document known limitations.",
+    "Address root cause."
+  ],
+  "employee_actions": [
+    "Define quality rules.",
+    "Document limitations.",
+    "Raise data issues."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Escalate material data-quality risks.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "data quality management",
+    "data quality",
+    "data governance"
+  ]
+}

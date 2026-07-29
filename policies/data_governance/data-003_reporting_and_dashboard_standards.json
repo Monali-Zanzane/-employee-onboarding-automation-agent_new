@@ -1,0 +1,41 @@
+{
+  "id": "DATA-003",
+  "title": "Reporting and Dashboard Standards",
+  "category": "Data Governance",
+  "topic": "Reporting",
+  "owner": "Analytics Centre of Excellence",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines minimum standards for reports and dashboards.",
+  "details": [
+    "Every metric needs a definition, owner, source and refresh frequency.",
+    "Show data period and last refresh.",
+    "Avoid misleading scales.",
+    "Apply access and accessibility controls."
+  ],
+  "employee_actions": [
+    "Document metrics.",
+    "Validate results.",
+    "Apply accessibility checks."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Escalate conflicting metric definitions.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "reporting and dashboard standards",
+    "reporting",
+    "data governance"
+  ]
+}

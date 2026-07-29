@@ -1,0 +1,41 @@
+{
+  "id": "LEARN-002",
+  "title": "Business Analyst Learning Path",
+  "category": "Learning",
+  "topic": "Role development",
+  "owner": "BA Practice Lead",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines the first-30-day BA learning path.",
+  "details": [
+    "The path covers requirements, process modelling, stakeholders, data and delivery practices.",
+    "Learning combines modules, examples, shadowing and practice.",
+    "Questions should be recorded for manager checkpoints.",
+    "Completion does not replace coaching."
+  ],
+  "employee_actions": [
+    "Follow the learning path.",
+    "Complete a practice BRD.",
+    "Attend the manager checkpoint."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Raise a Training or Manager Support ticket if support is unavailable.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "business analyst learning path",
+    "role development",
+    "learning"
+  ]
+}

@@ -1,0 +1,335 @@
+[
+  {
+    "Policy_ID": "HR-001",
+    "Policy_Title": "Employee Profile and Personal Information",
+    "Category": "HR",
+    "Topic": "Employee records",
+    "Owner": "HR Operations",
+    "Status": "Active",
+    "File": "policies/hr/hr-001_employee_profile_and_personal_information.json"
+  },
+  {
+    "Policy_ID": "HR-002",
+    "Policy_Title": "Code of Conduct Acknowledgement",
+    "Category": "HR",
+    "Topic": "Ethics",
+    "Owner": "Ethics and Compliance",
+    "Status": "Active",
+    "File": "policies/hr/hr-002_code_of_conduct_acknowledgement.json"
+  },
+  {
+    "Policy_ID": "HR-003",
+    "Policy_Title": "Attendance and Working Hours",
+    "Category": "HR",
+    "Topic": "Working time",
+    "Owner": "HR Operations",
+    "Status": "Active",
+    "File": "policies/hr/hr-003_attendance_and_working_hours.json"
+  },
+  {
+    "Policy_ID": "HR-004",
+    "Policy_Title": "Leave Request and Approval",
+    "Category": "HR",
+    "Topic": "Leave",
+    "Owner": "HR Operations",
+    "Status": "Active",
+    "File": "policies/hr/hr-004_leave_request_and_approval.json"
+  },
+  {
+    "Policy_ID": "BA-001",
+    "Policy_Title": "Business Analyst Role and Accountability",
+    "Category": "Business Analysis",
+    "Topic": "Role expectations",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-001_business_analyst_role_and_accountability.json"
+  },
+  {
+    "Policy_ID": "BA-002",
+    "Policy_Title": "Requirements Elicitation Standard",
+    "Category": "Business Analysis",
+    "Topic": "Elicitation",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-002_requirements_elicitation_standard.json"
+  },
+  {
+    "Policy_ID": "BA-003",
+    "Policy_Title": "Business Requirements Document Standard",
+    "Category": "Business Analysis",
+    "Topic": "Documentation",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-003_business_requirements_document_standard.json"
+  },
+  {
+    "Policy_ID": "BA-004",
+    "Policy_Title": "User Story and Acceptance Criteria Standard",
+    "Category": "Business Analysis",
+    "Topic": "Agile requirements",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-004_user_story_and_acceptance_criteria_standard.json"
+  },
+  {
+    "Policy_ID": "BA-005",
+    "Policy_Title": "Requirements Traceability",
+    "Category": "Business Analysis",
+    "Topic": "Traceability",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-005_requirements_traceability.json"
+  },
+  {
+    "Policy_ID": "BA-006",
+    "Policy_Title": "Requirements Change Control",
+    "Category": "Business Analysis",
+    "Topic": "Change management",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-006_requirements_change_control.json"
+  },
+  {
+    "Policy_ID": "BA-007",
+    "Policy_Title": "Stakeholder Identification and Engagement",
+    "Category": "Business Analysis",
+    "Topic": "Stakeholder management",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-007_stakeholder_identification_and_engagement.json"
+  },
+  {
+    "Policy_ID": "BA-008",
+    "Policy_Title": "Process Modelling Standard",
+    "Category": "Business Analysis",
+    "Topic": "Process analysis",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-008_process_modelling_standard.json"
+  },
+  {
+    "Policy_ID": "BA-009",
+    "Policy_Title": "Business Rules Management",
+    "Category": "Business Analysis",
+    "Topic": "Business rules",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-009_business_rules_management.json"
+  },
+  {
+    "Policy_ID": "BA-010",
+    "Policy_Title": "Non-Functional Requirements",
+    "Category": "Business Analysis",
+    "Topic": "Quality attributes",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-010_non_functional_requirements.json"
+  },
+  {
+    "Policy_ID": "BA-011",
+    "Policy_Title": "Data Requirements and Data Dictionary",
+    "Category": "Business Analysis",
+    "Topic": "Data analysis",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-011_data_requirements_and_data_dictionary.json"
+  },
+  {
+    "Policy_ID": "BA-012",
+    "Policy_Title": "Solution Evaluation and Benefits Tracking",
+    "Category": "Business Analysis",
+    "Topic": "Evaluation",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-012_solution_evaluation_and_benefits_tracking.json"
+  },
+  {
+    "Policy_ID": "BA-013",
+    "Policy_Title": "Workshop Facilitation Standard",
+    "Category": "Business Analysis",
+    "Topic": "Facilitation",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-013_workshop_facilitation_standard.json"
+  },
+  {
+    "Policy_ID": "BA-014",
+    "Policy_Title": "Prioritization and Scope Management",
+    "Category": "Business Analysis",
+    "Topic": "Prioritization",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-014_prioritization_and_scope_management.json"
+  },
+  {
+    "Policy_ID": "BA-015",
+    "Policy_Title": "Acceptance and Business Sign-Off",
+    "Category": "Business Analysis",
+    "Topic": "Acceptance",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-015_acceptance_and_business_sign_off.json"
+  },
+  {
+    "Policy_ID": "BA-016",
+    "Policy_Title": "Vendor and Third-Party Requirements",
+    "Category": "Business Analysis",
+    "Topic": "Third parties",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-016_vendor_and_third_party_requirements.json"
+  },
+  {
+    "Policy_ID": "BA-017",
+    "Policy_Title": "Regulatory and Compliance Requirements",
+    "Category": "Business Analysis",
+    "Topic": "Compliance",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-017_regulatory_and_compliance_requirements.json"
+  },
+  {
+    "Policy_ID": "BA-018",
+    "Policy_Title": "Assumptions Dependencies Risks and Issues",
+    "Category": "Business Analysis",
+    "Topic": "Analysis governance",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/business_analysis/ba-018_assumptions_dependencies_risks_and_issues.json"
+  },
+  {
+    "Policy_ID": "SEC-001",
+    "Policy_Title": "Information Classification and Handling",
+    "Category": "Security",
+    "Topic": "Information handling",
+    "Owner": "Information Security",
+    "Status": "Active",
+    "File": "policies/security/sec-001_information_classification_and_handling.json"
+  },
+  {
+    "Policy_ID": "SEC-002",
+    "Policy_Title": "Acceptable Use of Systems and AI Tools",
+    "Category": "Security",
+    "Topic": "Acceptable use",
+    "Owner": "Information Security",
+    "Status": "Active",
+    "File": "policies/security/sec-002_acceptable_use_of_systems_and_ai_tools.json"
+  },
+  {
+    "Policy_ID": "SEC-003",
+    "Policy_Title": "Phishing and Suspicious Communication",
+    "Category": "Security",
+    "Topic": "Phishing",
+    "Owner": "Security Operations",
+    "Status": "Active",
+    "File": "policies/security/sec-003_phishing_and_suspicious_communication.json"
+  },
+  {
+    "Policy_ID": "SEC-004",
+    "Policy_Title": "Security Incident Reporting",
+    "Category": "Security",
+    "Topic": "Incident management",
+    "Owner": "Security Operations",
+    "Status": "Active",
+    "File": "policies/security/sec-004_security_incident_reporting.json"
+  },
+  {
+    "Policy_ID": "ACCESS-001",
+    "Policy_Title": "Application and Data Access Requests",
+    "Category": "Security",
+    "Topic": "Access management",
+    "Owner": "Identity and Access Management",
+    "Status": "Active",
+    "File": "policies/security/access-001_application_and_data_access_requests.json"
+  },
+  {
+    "Policy_ID": "DATA-001",
+    "Policy_Title": "Personal Data and Privacy",
+    "Category": "Data Governance",
+    "Topic": "Privacy",
+    "Owner": "Data Privacy Office",
+    "Status": "Active",
+    "File": "policies/data_governance/data-001_personal_data_and_privacy.json"
+  },
+  {
+    "Policy_ID": "DATA-002",
+    "Policy_Title": "Data Quality Management",
+    "Category": "Data Governance",
+    "Topic": "Data quality",
+    "Owner": "Data Governance Office",
+    "Status": "Active",
+    "File": "policies/data_governance/data-002_data_quality_management.json"
+  },
+  {
+    "Policy_ID": "DATA-003",
+    "Policy_Title": "Reporting and Dashboard Standards",
+    "Category": "Data Governance",
+    "Topic": "Reporting",
+    "Owner": "Analytics Centre of Excellence",
+    "Status": "Active",
+    "File": "policies/data_governance/data-003_reporting_and_dashboard_standards.json"
+  },
+  {
+    "Policy_ID": "DATA-004",
+    "Policy_Title": "Data Retention and Disposal",
+    "Category": "Data Governance",
+    "Topic": "Retention",
+    "Owner": "Records Management",
+    "Status": "Active",
+    "File": "policies/data_governance/data-004_data_retention_and_disposal.json"
+  },
+  {
+    "Policy_ID": "LEARN-001",
+    "Policy_Title": "Mandatory Learning Completion",
+    "Category": "Learning",
+    "Topic": "Mandatory training",
+    "Owner": "Learning and Development",
+    "Status": "Active",
+    "File": "policies/learning/learn-001_mandatory_learning_completion.json"
+  },
+  {
+    "Policy_ID": "LEARN-002",
+    "Policy_Title": "Business Analyst Learning Path",
+    "Category": "Learning",
+    "Topic": "Role development",
+    "Owner": "BA Practice Lead",
+    "Status": "Active",
+    "File": "policies/learning/learn-002_business_analyst_learning_path.json"
+  },
+  {
+    "Policy_ID": "WORK-001",
+    "Policy_Title": "Respectful Workplace and Anti-Harassment",
+    "Category": "Workplace",
+    "Topic": "Respect and safety",
+    "Owner": "Employee Relations",
+    "Status": "Active",
+    "File": "policies/workplace/work-001_respectful_workplace_and_anti_harassment.json"
+  },
+  {
+    "Policy_ID": "WORK-002",
+    "Policy_Title": "Reasonable Adjustments and Accessibility",
+    "Category": "Workplace",
+    "Topic": "Accessibility",
+    "Owner": "HR Accessibility Team",
+    "Status": "Active",
+    "File": "policies/workplace/work-002_reasonable_adjustments_and_accessibility.json"
+  },
+  {
+    "Policy_ID": "WORK-003",
+    "Policy_Title": "Hybrid and Remote Working",
+    "Category": "Workplace",
+    "Topic": "Flexible work",
+    "Owner": "HR Operations",
+    "Status": "Active",
+    "File": "policies/workplace/work-003_hybrid_and_remote_working.json"
+  },
+  {
+    "Policy_ID": "WORK-004",
+    "Policy_Title": "Meeting and Collaboration Etiquette",
+    "Category": "Workplace",
+    "Topic": "Collaboration",
+    "Owner": "People and Culture",
+    "Status": "Active",
+    "File": "policies/workplace/work-004_meeting_and_collaboration_etiquette.json"
+  }
+]

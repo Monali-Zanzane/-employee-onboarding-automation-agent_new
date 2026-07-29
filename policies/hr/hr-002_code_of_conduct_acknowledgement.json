@@ -1,0 +1,41 @@
+{
+  "id": "HR-002",
+  "title": "Code of Conduct Acknowledgement",
+  "category": "HR",
+  "topic": "Ethics",
+  "owner": "Ethics and Compliance",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Requires new hires to read and acknowledge the code of conduct.",
+  "details": [
+    "Acknowledgement is required in Week 1.",
+    "Conflicts of interest must be disclosed.",
+    "Retaliation for good-faith reporting is prohibited.",
+    "Use approved ethics and HR reporting channels."
+  ],
+  "employee_actions": [
+    "Read the policy.",
+    "Complete acknowledgement.",
+    "Ask for clarification when needed."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Raise a Workplace Concern ticket for suspected misconduct.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "code of conduct acknowledgement",
+    "ethics",
+    "hr"
+  ]
+}

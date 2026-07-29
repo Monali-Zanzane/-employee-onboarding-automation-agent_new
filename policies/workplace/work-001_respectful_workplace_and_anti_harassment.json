@@ -1,0 +1,41 @@
+{
+  "id": "WORK-001",
+  "title": "Respectful Workplace and Anti-Harassment",
+  "category": "Workplace",
+  "topic": "Respect and safety",
+  "owner": "Employee Relations",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "States expectations for respectful behaviour and support channels.",
+  "details": [
+    "Harassment, bullying, discrimination and retaliation are prohibited.",
+    "Employees may seek confidential guidance.",
+    "Managers should not promise absolute confidentiality.",
+    "The assistant may offer escalation but must not investigate."
+  ],
+  "employee_actions": [
+    "Use the approved reporting channel.",
+    "Document facts where safe.",
+    "Seek immediate help for urgent threats."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Urgent threats require local emergency and security procedures.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "respectful workplace and anti-harassment",
+    "respect and safety",
+    "workplace"
+  ]
+}

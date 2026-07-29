@@ -1,0 +1,41 @@
+{
+  "id": "HR-003",
+  "title": "Attendance and Working Hours",
+  "category": "HR",
+  "topic": "Working time",
+  "owner": "HR Operations",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Explains attendance, working hours and absence reporting.",
+  "details": [
+    "Follow the agreed working schedule.",
+    "Notify planned absence in advance.",
+    "Report unexpected absence promptly.",
+    "Avoid unnecessary out-of-hours collaboration."
+  ],
+  "employee_actions": [
+    "Confirm your schedule.",
+    "Notify your manager about absence.",
+    "Record attendance where required."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Raise an HR Policy ticket for unresolved schedule questions.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "attendance and working hours",
+    "working time",
+    "hr"
+  ]
+}

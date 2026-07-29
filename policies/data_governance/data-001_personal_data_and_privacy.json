@@ -1,0 +1,41 @@
+{
+  "id": "DATA-001",
+  "title": "Personal Data and Privacy",
+  "category": "Data Governance",
+  "topic": "Privacy",
+  "owner": "Data Privacy Office",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines privacy principles for analysis and reporting.",
+  "details": [
+    "Identify personal-data elements and purpose.",
+    "Collect only minimum necessary data.",
+    "Do not use production personal data in testing without approval.",
+    "Start privacy review early."
+  ],
+  "employee_actions": [
+    "Identify personal data.",
+    "Engage privacy specialists.",
+    "Document minimization."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Escalate unclear legal basis or high-risk processing.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "personal data and privacy",
+    "privacy",
+    "data governance"
+  ]
+}

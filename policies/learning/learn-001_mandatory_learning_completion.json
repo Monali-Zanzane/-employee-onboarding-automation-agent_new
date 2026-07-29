@@ -1,0 +1,41 @@
+{
+  "id": "LEARN-001",
+  "title": "Mandatory Learning Completion",
+  "category": "Learning",
+  "topic": "Mandatory training",
+  "owner": "Learning and Development",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines completion and evidence requirements for mandatory learning.",
+  "details": [
+    "Complete modules by the due date.",
+    "Employees must complete their own assessments.",
+    "Completion records are retained.",
+    "Report access problems before the deadline."
+  ],
+  "employee_actions": [
+    "Review modules.",
+    "Complete by due date.",
+    "Raise a Training ticket for access issues."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Escalate unresolved access issues to Learning Support.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "mandatory learning completion",
+    "mandatory training",
+    "learning"
+  ]
+}

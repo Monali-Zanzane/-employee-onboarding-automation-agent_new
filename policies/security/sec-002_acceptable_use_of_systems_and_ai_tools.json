@@ -1,0 +1,41 @@
+{
+  "id": "SEC-002",
+  "title": "Acceptable Use of Systems and AI Tools",
+  "category": "Security",
+  "topic": "Acceptable use",
+  "owner": "Information Security",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines responsible use of systems and generative AI tools.",
+  "details": [
+    "Use only approved tools.",
+    "Never share credentials.",
+    "Do not enter sensitive data into public AI tools without approval.",
+    "Review AI output for accuracy, bias and confidentiality."
+  ],
+  "employee_actions": [
+    "Use approved tools.",
+    "Protect credentials.",
+    "Review AI output."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Raise a Security or Access Request ticket for uncertainty.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "acceptable use of systems and ai tools",
+    "acceptable use",
+    "security"
+  ]
+}

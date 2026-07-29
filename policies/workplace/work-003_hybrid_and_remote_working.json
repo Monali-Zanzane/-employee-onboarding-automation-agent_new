@@ -1,0 +1,41 @@
+{
+  "id": "WORK-003",
+  "title": "Hybrid and Remote Working",
+  "category": "Workplace",
+  "topic": "Flexible work",
+  "owner": "HR Operations",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines hybrid and remote working expectations.",
+  "details": [
+    "Follow team presence agreements.",
+    "Protect company information outside the office.",
+    "Include remote participants equitably.",
+    "Remote work does not change security obligations."
+  ],
+  "employee_actions": [
+    "Confirm the arrangement.",
+    "Use secure connections.",
+    "Maintain a suitable environment."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Raise an HR Policy or Manager Support ticket.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "hybrid and remote working",
+    "flexible work",
+    "workplace"
+  ]
+}

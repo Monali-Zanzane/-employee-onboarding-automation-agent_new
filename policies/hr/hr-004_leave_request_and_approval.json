@@ -1,0 +1,41 @@
+{
+  "id": "HR-004",
+  "title": "Leave Request and Approval",
+  "category": "HR",
+  "topic": "Leave",
+  "owner": "HR Operations",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines the standard leave request process.",
+  "details": [
+    "Submit planned leave through the approved process.",
+    "Manager approval is required unless local rules differ.",
+    "Prepare handover notes for critical activities.",
+    "Do not share medical details in general channels."
+  ],
+  "employee_actions": [
+    "Submit the request.",
+    "Notify your manager.",
+    "Prepare handover information."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Contact HR Operations for overdue leave approvals.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "leave request and approval",
+    "leave",
+    "hr"
+  ]
+}

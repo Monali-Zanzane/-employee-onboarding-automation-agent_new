@@ -1,0 +1,41 @@
+{
+  "id": "WORK-004",
+  "title": "Meeting and Collaboration Etiquette",
+  "category": "Workplace",
+  "topic": "Collaboration",
+  "owner": "People and Culture",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines inclusive and effective meeting practices.",
+  "details": [
+    "Meetings need purpose, agenda and expected outcome.",
+    "Consider accessibility and time zones.",
+    "Document decisions and actions.",
+    "Recording requires participant awareness."
+  ],
+  "employee_actions": [
+    "Prepare and participate.",
+    "Document decisions.",
+    "Use inclusive facilitation."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Escalate recurring participation or decision issues.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "meeting and collaboration etiquette",
+    "collaboration",
+    "workplace"
+  ]
+}

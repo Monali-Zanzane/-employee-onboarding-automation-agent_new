@@ -1,0 +1,41 @@
+{
+  "id": "HR-001",
+  "title": "Employee Profile and Personal Information",
+  "category": "HR",
+  "topic": "Employee records",
+  "owner": "HR Operations",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Defines the employee details required during onboarding.",
+  "details": [
+    "Required profile data includes employee code, name, email, role, department, manager, mentor, joining date, location, experience level and onboarding day.",
+    "Employees must verify profile accuracy on Day 1.",
+    "Sensitive identifiers must not be entered in chat or ordinary ticket descriptions.",
+    "Changes must be timestamped and auditable."
+  ],
+  "employee_actions": [
+    "Complete the employee profile.",
+    "Report incorrect data.",
+    "Keep contact information current."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Raise an HR Policy ticket if mandatory details cannot be corrected.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "employee profile and personal information",
+    "employee records",
+    "hr"
+  ]
+}

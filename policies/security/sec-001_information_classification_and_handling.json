@@ -1,0 +1,41 @@
+{
+  "id": "SEC-001",
+  "title": "Information Classification and Handling",
+  "category": "Security",
+  "topic": "Information handling",
+  "owner": "Information Security",
+  "status": "Active",
+  "version": "1.0",
+  "effective_date": "2026-01-01",
+  "review_date": "2027-01-01",
+  "scope": "Applies to Business Analysts during their first 30 days.",
+  "summary": "Explains how to handle public, internal, confidential and restricted information.",
+  "details": [
+    "Share information only with authorized recipients.",
+    "Do not copy restricted information into unapproved AI tools.",
+    "Screenshots inherit source sensitivity.",
+    "Use approved storage and sharing channels."
+  ],
+  "employee_actions": [
+    "Check classification.",
+    "Use approved storage.",
+    "Limit access."
+  ],
+  "manager_actions": [
+    "Provide timely clarification.",
+    "Review overdue onboarding items.",
+    "Escalate material blockers."
+  ],
+  "evidence": [
+    "Completion record or approved artifact.",
+    "Review or acknowledgement evidence.",
+    "Ticket reference for unresolved issues."
+  ],
+  "escalation": "Report suspected disclosure immediately.",
+  "exceptions": "Any exception requires documented approval from the policy owner.",
+  "keywords": [
+    "information classification and handling",
+    "information handling",
+    "security"
+  ]
+}
